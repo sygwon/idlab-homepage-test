@@ -1,4 +1,5 @@
 {
+  "labLogo": "",
   "popupEnabled": true,
   "recruitment": {
     "title": "신입생 및 인턴 모집",
@@ -20,7 +21,7 @@
     "contactStudentEmail": "kimcy0789@kaist.ac.kr"
   },
   "researchIntro": {
-    "mainTitle": "RESEARCH AREA",
+    "mainTitle": "Research Area",
     "subTitle": "Overview of ID LAB research areas and projects",
     "optFormulaTitle": "What is the optimization?",
     "optFormulaSubtitle": "The optimization is a mathematical/numerical tool that can solve a complex problem in various fields. After the design variables for a target system are defined, the objective and constraint functions can be expressed in terms of the design variables. Through iterations, the optimization algorithm updates the design variables to extremize (maximize or minimize) the objective function while satisfying the constraint functions. For example, let us assume to optimize a beam structure under the given geometric and loading boundary conditions. Then, compliance minimization with a mass constraint provides the optimal structure, as shown below.",
@@ -220,18 +221,6 @@
       }
     }
   },
-  "esPoints": [
-    "Wireless power transfer coil and resonant network optimization",
-    "Mutual inductance estimation, misalignment detection, and multi-receiver system design"
-  ],
-  "msPoints": [
-    "Vehicle routing, shortest-path, and loop-wise route optimization",
-    "Real-time decision support and network modeling for autonomous mobility"
-  ],
-  "bsPoints": [
-    "Trabecular bone reconstruction with topology optimization and deep learning",
-    "Finite element and physics-informed analysis for bone quality assessment"
-  ],
   "projects": [
     {
       "id": "project-ongoing-1",
@@ -4433,20 +4422,32 @@
       "images": []
     }
   ],
+  "esPoints": [
+    "Wireless power transfer coil and resonant network optimization",
+    "Mutual inductance estimation, misalignment detection, and multi-receiver system design"
+  ],
+  "msPoints": [
+    "Vehicle routing, shortest-path, and loop-wise route optimization",
+    "Real-time decision support and network modeling for autonomous mobility"
+  ],
+  "bsPoints": [
+    "Trabecular bone reconstruction with topology optimization and deep learning",
+    "Finite element and physics-informed analysis for bone quality assessment"
+  ],
   "heroText": {
-    "title": "Innovative Design LAB",
+    "title": "Innovative Design LAB_test",
     "slogan1": "A multidisciplinary research lab integrating optimization and deep learning for innovative design.",
     "slogan2": "Welcome to ID LAB and join us!",
     "kaist": "KAIST",
-    "chochun": "CHO CHUN SHIK GRADUATE SCHOOL OF MOBILITY"
+    "chochun": "Cho Chun Shik Graduate School of Mobility"
   },
-  "homePubsTitle": "PUBLICATION",
+  "homePubsTitle": "Publication",
   "homePubsSub": "Announcement of ID LAB publications",
   "subtitles": {
     "research": "Overview of ID LAB research areas and projects",
-    "projects": "ID LAB OUTSTANDING STRUCTURAL DESIGN AND ANALYSIS PROJECTS",
-    "members": "KAIST INNOVATIVE MOBILITY SYSTEMS LABORATORY MEMBERS",
-    "lectures": "KAIST CHO CHUN SHIK MOBILITY LECTURE CURRICULUM",
+    "projects": "ID LAB Structural Design and Analysis Projects",
+    "members": "KAIST Innovative Mobility Systems Laboratory Members",
+    "lectures": "KAIST Cho Chun Shik Mobility Lecture Curriculum",
     "publications": "Announcement of ID LAB publications",
     "board": "Announcement of ID LAB activities"
   }
